@@ -6,3 +6,7 @@ def square_array(array)
   end
   array
 end
+
+
+grocerylist[apple, frog]
+grocerylist[0]
