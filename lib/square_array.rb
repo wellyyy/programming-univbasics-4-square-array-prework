@@ -8,5 +8,3 @@ def square_array(array)
 end
 
 
-grocerylist[apple, frog]
-grocerylist[0]
